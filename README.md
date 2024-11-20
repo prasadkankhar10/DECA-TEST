@@ -154,3 +154,6 @@ You can also check this PowerPoint presentation to learn more about Flip-flops i
 
 
 Truth Table
+
+
+https://de-iitr.vlabs.ac.in/exp/multiplexer-demultiplexer/
